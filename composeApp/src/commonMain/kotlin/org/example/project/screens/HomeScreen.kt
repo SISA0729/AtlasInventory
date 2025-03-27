@@ -19,7 +19,7 @@ fun HomeScreen() {
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .background(Color.Blue)
+            .background(Color.White)
             .padding(bottom = 140.dp)
     ) {
         ImageCard(title = "INVENTARIO", onClick = {  })
