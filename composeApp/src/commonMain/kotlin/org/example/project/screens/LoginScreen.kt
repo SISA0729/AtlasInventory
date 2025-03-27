@@ -45,7 +45,7 @@ fun LoginScreen(onLoginSuccess: () -> Unit) {
                 painter = painterResource(Res.drawable.logo),
                 contentDescription = "Logo",
                 modifier = Modifier
-                    .height(200.dp)
+                    .height(120.dp)
             )
 
             Text(
