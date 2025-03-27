@@ -19,7 +19,6 @@ import androidx.compose.ui.text.input.*
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import atlasinventory.composeapp.generated.resources.Res
-import atlasinventory.composeapp.generated.resources.compose_multiplatform
 import atlasinventory.composeapp.generated.resources.logo
 import org.jetbrains.compose.resources.painterResource
 
